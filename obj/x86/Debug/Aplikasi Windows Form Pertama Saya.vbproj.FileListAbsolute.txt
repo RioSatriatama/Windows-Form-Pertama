@@ -1,0 +1,9 @@
+C:\VB PROJECTS\Aplikasi Windows Form Pertama Saya\bin\Debug\Aplikasi Windows Form Pertama Saya.exe
+C:\VB PROJECTS\Aplikasi Windows Form Pertama Saya\bin\Debug\Aplikasi Windows Form Pertama Saya.pdb
+C:\VB PROJECTS\Aplikasi Windows Form Pertama Saya\bin\Debug\Aplikasi Windows Form Pertama Saya.xml
+C:\VB PROJECTS\Aplikasi Windows Form Pertama Saya\obj\x86\Debug\WindowsApplication1.frmSeleksiKamar.resources
+C:\VB PROJECTS\Aplikasi Windows Form Pertama Saya\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\VB PROJECTS\Aplikasi Windows Form Pertama Saya\obj\x86\Debug\Aplikasi Windows Form Pertama Saya.vbproj.GenerateResource.Cache
+C:\VB PROJECTS\Aplikasi Windows Form Pertama Saya\obj\x86\Debug\Aplikasi Windows Form Pertama Saya.exe
+C:\VB PROJECTS\Aplikasi Windows Form Pertama Saya\obj\x86\Debug\Aplikasi Windows Form Pertama Saya.xml
+C:\VB PROJECTS\Aplikasi Windows Form Pertama Saya\obj\x86\Debug\Aplikasi Windows Form Pertama Saya.pdb
